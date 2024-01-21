@@ -1,0 +1,5 @@
+
+requests~=2.31.0
+roboflow~=1.1.14
+aiogram~=2.23.1
+Pillow~=10.1.0
